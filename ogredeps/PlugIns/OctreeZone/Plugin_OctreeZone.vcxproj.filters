@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\PlugIns\OctreeZone\src\OgreOctreeZone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\PlugIns\OctreeZone\src\OgreOctreeZoneDll.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\PlugIns\OctreeZone\src\OgreOctreeZoneOctree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\PlugIns\OctreeZone\src\OgreOctreeZonePlugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\PlugIns\OctreeZone\include\OgreOctreeZone.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\PlugIns\OctreeZone\include\OgreOctreeZoneOctree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\PlugIns\OctreeZone\include\OgreOctreeZonePlugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\include\OgreOctreeZonePrerequisites.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C15E7858-0106-32A1-92C3-CE650CE21D2D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CFE59392-1441-37A6-826C-1CBE098A0361}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

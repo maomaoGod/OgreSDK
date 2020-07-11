@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.15/Modules/exportheader.cmake.in
+F:/CPlusPlus/OGRE/OgreSDK/ogre-1.12.6/CMake/Templates/VisualStudioUserFile.vcproj.user.in
+F:/CPlusPlus/OGRE/OgreSDK/ogre-1.12.6/CMake/Templates/VisualStudioUserFile.vcxproj.user.in
+F:/CPlusPlus/OGRE/OgreSDK/ogre-1.12.6/Components/Property/CMakeLists.txt

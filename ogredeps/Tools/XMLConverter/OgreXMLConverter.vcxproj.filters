@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Tools\XMLConverter\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Tools\XMLConverter\src\OgreXMLMeshSerializer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Tools\XMLConverter\src\OgreXMLSkeletonSerializer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Tools\XMLConverter\include\OgreXMLMeshSerializer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Tools\XMLConverter\include\OgreXMLPrerequisites.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Tools\XMLConverter\include\OgreXMLSkeletonSerializer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C15E7858-0106-32A1-92C3-CE650CE21D2D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CFE59392-1441-37A6-826C-1CBE098A0361}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

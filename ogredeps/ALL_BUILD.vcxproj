@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{4A167FE0-43E4-3F34-9A8A-6184922D162A}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>x64</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\PlugIns\FreeImageCodec\Codec_FreeImage.vcxproj">
+      <Project>{FA7886FC-9034-39AC-981A-E5AE2F307DBB}</Project>
+      <Name>Codec_FreeImage</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\PlugIns\STBICodec\Codec_STBI.vcxproj">
+      <Project>{3E21CA9A-C144-3711-BCC1-886A6E34AB41}</Project>
+      <Name>Codec_STBI</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\Samples\DefaultSamples.vcxproj">
+      <Project>{835A30A3-341B-359E-B814-92ED133F57FA}</Project>
+      <Name>DefaultSamples</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\Components\Bites\OgreBites.vcxproj">
+      <Project>{9800A31E-6642-34A2-86C7-091EF7D24EA7}</Project>
+      <Name>OgreBites</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\RenderSystems\GLSupport\OgreGLSupport.vcxproj">
+      <Project>{9C1F1B30-2AB4-339B-BE68-374A862E270D}</Project>
+      <Name>OgreGLSupport</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\Components\HLMS\OgreHLMS.vcxproj">
+      <Project>{BCB848E2-43CF-366E-8AF5-FD4804DA278C}</Project>
+      <Name>OgreHLMS</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\OgreMain\OgreMain.vcxproj">
+      <Project>{90DC8C2B-05F8-3922-B4BF-2FACD5068CBE}</Project>
+      <Name>OgreMain</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\Components\MeshLodGenerator\OgreMeshLodGenerator.vcxproj">
+      <Project>{953EDB09-5829-3D54-964E-E3DAC758BB9A}</Project>
+      <Name>OgreMeshLodGenerator</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\Tools\MeshUpgrader\OgreMeshUpgrader.vcxproj">
+      <Project>{E92BFA92-6ED9-38FE-AE49-DF7A4600E05B}</Project>
+      <Name>OgreMeshUpgrader</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\Components\Overlay\OgreOverlay.vcxproj">
+      <Project>{B378E35C-ECEA-3A00-B6FD-38C536F7ED97}</Project>
+      <Name>OgreOverlay</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\Components\Paging\OgrePaging.vcxproj">
+      <Project>{66E8446B-0685-3E7F-88E3-6D4BECC8A1BA}</Project>
+      <Name>OgrePaging</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\Components\Property\OgreProperty.vcxproj">
+      <Project>{8BEC5E42-532C-338F-9222-C7B0D783FFC3}</Project>
+      <Name>OgreProperty</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\Components\RTShaderSystem\OgreRTShaderSystem.vcxproj">
+      <Project>{6905FA0B-3986-3316-830D-1A8C53D19219}</Project>
+      <Name>OgreRTShaderSystem</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\Components\Terrain\OgreTerrain.vcxproj">
+      <Project>{68E74E3C-F25F-3D3B-BC2B-EA5B4B6778D0}</Project>
+      <Name>OgreTerrain</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\Components\Volume\OgreVolume.vcxproj">
+      <Project>{4E83EF5A-D9D6-3CAA-BA00-236C60591072}</Project>
+      <Name>OgreVolume</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\Tools\XMLConverter\OgreXMLConverter.vcxproj">
+      <Project>{15CCA33C-1EF7-383C-AB5E-49361BB3598E}</Project>
+      <Name>OgreXMLConverter</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\PlugIns\BSPSceneManager\Plugin_BSPSceneManager.vcxproj">
+      <Project>{4244D854-2ADB-371C-9EBC-56EBED26EFFC}</Project>
+      <Name>Plugin_BSPSceneManager</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\PlugIns\CgProgramManager\Plugin_CgProgramManager.vcxproj">
+      <Project>{BCF212CA-C3F7-3D56-BBCC-6E2F1A1A86A3}</Project>
+      <Name>Plugin_CgProgramManager</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\PlugIns\DotScene\Plugin_DotScene.vcxproj">
+      <Project>{03A51112-A743-3B84-A742-EC5EACAE795B}</Project>
+      <Name>Plugin_DotScene</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\PlugIns\OctreeSceneManager\Plugin_OctreeSceneManager.vcxproj">
+      <Project>{9BDF23A7-7311-323F-AA4B-97228F066B32}</Project>
+      <Name>Plugin_OctreeSceneManager</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\PlugIns\OctreeZone\Plugin_OctreeZone.vcxproj">
+      <Project>{3DF4D677-D01F-39D3-87CF-0CD4F389FEC7}</Project>
+      <Name>Plugin_OctreeZone</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\PlugIns\PCZSceneManager\Plugin_PCZSceneManager.vcxproj">
+      <Project>{156CA56B-3FE8-36BB-820B-7CABE3839B62}</Project>
+      <Name>Plugin_PCZSceneManager</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\PlugIns\ParticleFX\Plugin_ParticleFX.vcxproj">
+      <Project>{CDD9D98D-1414-3221-80ED-30C42C3724FA}</Project>
+      <Name>Plugin_ParticleFX</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\RenderSystems\Direct3D11\RenderSystem_Direct3D11.vcxproj">
+      <Project>{7D401618-CD9B-33CB-AD73-0207DA968184}</Project>
+      <Name>RenderSystem_Direct3D11</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\RenderSystems\Direct3D9\RenderSystem_Direct3D9.vcxproj">
+      <Project>{811BF76A-73C8-3EB1-9FB6-6E4880E0663C}</Project>
+      <Name>RenderSystem_Direct3D9</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\RenderSystems\GL\RenderSystem_GL.vcxproj">
+      <Project>{16277A6B-8C03-3995-A079-19D58D74192C}</Project>
+      <Name>RenderSystem_GL</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\RenderSystems\GL3Plus\RenderSystem_GL3Plus.vcxproj">
+      <Project>{5C245191-BEAC-3298-868F-40E186DA55C7}</Project>
+      <Name>RenderSystem_GL3Plus</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\Samples\Browser\SampleBrowser.vcxproj">
+      <Project>{24951388-3EF2-3F59-A6D5-8B13A7779F19}</Project>
+      <Name>SampleBrowser</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\Tools\VRMLConverter\VRMLConverter.vcxproj">
+      <Project>{24E4BAA9-7E83-3C69-91E2-FBA94060784C}</Project>
+      <Name>VRMLConverter</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,1275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\OgreMain\OgreMain_pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreASTCCodec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreAlignedAllocator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreAnimable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreAnimation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreAnimationState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreAnimationTrack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreArchive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreArchiveManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreAutoParamDataSource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreAxisAlignedBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreBillboard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreBillboardChain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreBillboardParticleRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreBillboardSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreBone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreCamera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreCodec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreColourValue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreCommon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreCompositionPass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreCompositionTargetPass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreCompositionTechnique.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreCompositor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreCompositorChain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreCompositorInstance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreCompositorManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreConfigFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreControllerManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreConvexBody.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreDataStream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreDefaultHardwareBufferManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreDefaultSceneQueries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreDeflate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreDepthBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreDistanceLodStrategy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreDualQuaternion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreDynLib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreDynLibManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreEdgeListBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreEntity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreExternalTextureSource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreExternalTextureSourceManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreFileSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreFrustum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreGpuProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreGpuProgramManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreGpuProgramParams.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreGpuProgramUsage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreHardwareBufferManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreHardwareIndexBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreHardwareOcclusionQuery.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreHardwarePixelBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreHardwareUniformBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreHardwareVertexBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreHighLevelGpuProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreHighLevelGpuProgramManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreInstanceBatch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreInstanceBatchHW.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreInstanceBatchHW_VTF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreInstanceBatchShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreInstanceBatchVTF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreInstanceManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreInstancedEntity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreKeyFrame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreLodStrategy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreLodStrategyManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreLog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreLogManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreManualObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreMaterial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreMaterialManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreMaterialSerializer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreMath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreMatrix3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreMatrix4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreMeshManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreMeshSerializer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreMeshSerializerImpl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreMovableObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreMovablePlane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreMurmurHash3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreNumerics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreOptimisedUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreOptimisedUtilGeneral.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreOptimisedUtilSSE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreParticle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreParticleEmitter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreParticleEmitterCommands.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreParticleIterator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreParticleSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreParticleSystemManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgrePass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgrePatchMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgrePatchSurface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgrePixelCountLodStrategy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgrePixelFormat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgrePlatformInformation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgrePolygon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgrePose.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgrePredefinedControllers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgrePrefabFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreProfiler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreQuaternion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreRectangle2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreRenderQueue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreRenderQueueInvocation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreRenderQueueSortingGrouping.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreRenderSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreRenderSystemCapabilities.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreRenderSystemCapabilitiesManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreRenderSystemCapabilitiesSerializer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreRenderTarget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreRenderTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreRenderToVertexBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreRenderWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreRenderable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreResource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreResourceBackgroundQueue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreResourceGroupManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreResourceManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreRibbonTrail.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreRoot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreRotationSpline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreSceneLoaderManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreSceneManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreSceneManagerEnumerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreSceneNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreSceneQuery.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreScriptCompiler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreScriptLexer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreScriptParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreScriptTranslator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreSerializer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreShadowCameraSetup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreShadowCameraSetupFocused.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreShadowCameraSetupLiSPSM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreShadowCameraSetupPSSM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreShadowCameraSetupPlaneOptimal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreShadowCaster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreShadowRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreShadowTextureManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreShadowVolumeExtrudeProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreSimpleRenderable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreSimpleSpline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreSkeleton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreSkeletonInstance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreSkeletonManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreSkeletonSerializer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreSkyRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreStaticGeometry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreStreamSerialiser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreStringConverter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreStringInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreSubEntity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreSubMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreTagPoint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreTangentSpaceCalc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreTechnique.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreTextureManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreTextureUnitState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreTimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreUnifiedHighLevelGpuProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreUserObjectBindings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreVector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreVertexIndexData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreViewport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreWireBoundingBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreWorkQueue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreDDSCodec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreETCCodec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\OgreZip.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\WIN32\OgreFileSystemLayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\src\Threading\OgreDefaultWorkQueueStandard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\Ogre.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreASTCCodec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreAlignedAllocator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreAnimable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreAnimation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreAnimationState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreAnimationTrack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreAny.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreArchive.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreArchiveFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreArchiveManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreAtomicScalar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreAutoParamDataSource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreAxisAlignedBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreBillboard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreBillboardChain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreBillboardParticleRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreBillboardSet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreBitwise.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreBlendMode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreBone.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreCamera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreCodec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreColourValue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreCompositionPass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreCompositionTargetPass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreCompositionTechnique.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreCompositor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreCompositorChain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreCompositorInstance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreCompositorLogic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreCompositorManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreConfigDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreConfigFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreConfigOptionMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreControllerManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreConvexBody.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreCustomCompositionPass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreDataStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreDefaultHardwareBufferManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreDeflate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreDepthBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreDistanceLodStrategy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreDualQuaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreDynLib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreDynLibManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreEdgeListBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreEntity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreExternalTextureSource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreExternalTextureSourceManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreFactoryObj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreFileSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreFileSystemLayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreFrameListener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreFrustum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreGpuProgram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreGpuProgramManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreGpuProgramParams.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreGpuProgramUsage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreHardwareBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreHardwareBufferManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreHardwareCounterBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreHardwareIndexBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreHardwareOcclusionQuery.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreHardwarePixelBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreHardwareUniformBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreHardwareVertexBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreHeaderPrefix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreHeaderSuffix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreHighLevelGpuProgram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreHighLevelGpuProgramManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreImageCodec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreInstanceBatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreInstanceBatchHW.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreInstanceBatchHW_VTF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreInstanceBatchShader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreInstanceBatchVTF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreInstanceManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreInstancedEntity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreIteratorWrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreIteratorWrappers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreKeyFrame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreLodListener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreLodStrategy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreLodStrategyManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreLog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreLogManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreManualObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreMaterial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreMaterialManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreMaterialSerializer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreMatrix3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreMatrix4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreMemoryAllocatorConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreMeshFileFormat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreMeshManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreMeshSerializer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreMovableObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreMovablePlane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreMurmurHash3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreNameGenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreNumerics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreOptimisedUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreParticle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreParticleAffector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreParticleAffectorFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreParticleEmitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreParticleEmitterFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreParticleIterator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreParticleSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreParticleSystemManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreParticleSystemRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgrePass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgrePatchMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgrePatchSurface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgrePixelCountLodStrategy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgrePixelFormat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgrePlane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgrePlaneBoundedVolume.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgrePlatform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgrePlatformInformation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgrePlugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgrePolygon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgrePose.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgrePredefinedControllers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgrePrerequisites.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreProfiler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreQuaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRadixSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRectangle2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRenderObjectListener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRenderOperation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRenderQueue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRenderQueueInvocation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRenderQueueListener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRenderQueueSortingGrouping.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRenderSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRenderSystemCapabilities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRenderSystemCapabilitiesManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRenderSystemCapabilitiesSerializer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRenderTarget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRenderTargetListener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRenderTexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRenderToVertexBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRenderWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRenderable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreResource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreResourceBackgroundQueue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreResourceGroupManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreResourceManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRibbonTrail.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRoot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreRotationalSpline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSceneLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSceneLoaderManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSceneManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSceneManagerEnumerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSceneNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSceneQuery.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreScriptCompiler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreScriptLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreScriptTranslator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSearchOps.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSerializer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreShadowCameraSetup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreShadowCameraSetupFocused.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreShadowCameraSetupLiSPSM.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreShadowCameraSetupPSSM.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreShadowCameraSetupPlaneOptimal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreShadowCaster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSharedPtr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSimpleRenderable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSimpleSpline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSingleton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSkeleton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSkeletonFileFormat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSkeletonInstance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSkeletonManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSkeletonSerializer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreStaticFaceGroup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreStaticGeometry.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreStdHeaders.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreStreamSerialiser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreStringConverter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreStringInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreStringVector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSubEntity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreSubMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreTagPoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreTangentSpaceCalc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreTechnique.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreTexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreTextureManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreTextureUnitState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreTimer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreUnifiedHighLevelGpuProgram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreUserObjectBindings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreVector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreVector2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreVector3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreVector4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreVertexBoneAssignment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreVertexIndexData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreViewport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreWireBoundingBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreWorkQueue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\include\OgreBuildSettings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\include\OgreComponents.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\include\OgreExports.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\Threading\OgreDefaultWorkQueue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\Threading\OgreDefaultWorkQueueStandard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\Threading\OgreDefaultWorkQueueTBB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\Threading\OgreThreadDefines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\Threading\OgreThreadDefinesBoost.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\Threading\OgreThreadDefinesNone.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\Threading\OgreThreadDefinesPoco.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\Threading\OgreThreadDefinesSTD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\Threading\OgreThreadDefinesTBB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\Threading\OgreThreadHeaders.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\Threading\OgreThreadHeadersBoost.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\Threading\OgreThreadHeadersPoco.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\Threading\OgreThreadHeadersSTD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\Threading\OgreThreadHeadersTBB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreDDSCodec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreETCCodec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\OgreZip.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include\Ogre.i" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C15E7858-0106-32A1-92C3-CE650CE21D2D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CFE59392-1441-37A6-826C-1CBE098A0361}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

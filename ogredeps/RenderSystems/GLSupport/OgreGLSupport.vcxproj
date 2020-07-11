@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{9C1F1B30-2AB4-339B-BE68-374A862E270D}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>x64</Platform>
+    <ProjectName>OgreGLSupport</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">F:\CPlusPlus\OGRE\OgreSDK\ogredeps\lib\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">OgreGLSupport.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">OgreGLSupport_d</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">F:\CPlusPlus\OGRE\OgreSDK\ogredeps\lib\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">OgreGLSupport.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">OgreGLSupport</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.lib</TargetExt>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\GLSL;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\win32;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include;F:\CPlusPlus\OGRE\OgreSDK\ogredeps\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /Zm256 /bigobj</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4661;4251;4275</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_MT;_USRDLL;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_MT;_USRDLL;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\GLSL;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\win32;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include;F:\CPlusPlus\OGRE\OgreSDK\ogredeps\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\GLSL;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\win32;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include;F:\CPlusPlus\OGRE\OgreSDK\ogredeps\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\GLSL;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\win32;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include;F:\CPlusPlus\OGRE\OgreSDK\ogredeps\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /Zm256</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DisableSpecificWarnings>4661;4251;4275</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_MT;_USRDLL;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_MT;_USRDLL;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\GLSL;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\win32;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include;F:\CPlusPlus\OGRE\OgreSDK\ogredeps\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\GLSL;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\win32;F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\OgreMain\include;F:\CPlusPlus\OGRE\OgreSDK\ogredeps\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\OgreGLContext.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\OgreGLDepthBufferCommon.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\OgreGLHardwarePixelBufferCommon.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\OgreGLNativeSupport.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\OgreGLPBuffer.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\OgreGLRenderSystemCommon.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\OgreGLRenderTarget.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\OgreGLRenderTexture.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\OgreGLStateCacheManagerCommon.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\OgreGLTextureCommon.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\OgreGLUniformCache.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\OgreGLUtil.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\OgreGLVertexArrayObject.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\OgreGLWindow.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\win32\OgreWin32Context.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\win32\OgreWin32GLSupport.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\win32\OgreWin32Prerequisites.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\win32\OgreWin32RenderTexture.h" />
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\include\win32\OgreWin32Window.h" />
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\src\win32\OgreWin32Context.cpp" />
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\src\win32\OgreWin32GLSupport.cpp" />
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\src\win32\OgreWin32RenderTexture.cpp" />
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\src\win32\OgreWin32Window.cpp" />
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\src\GLSL\OgreGLSLPreprocessor.cpp" />
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\src\GLSL\OgreGLSLProgramCommon.cpp" />
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\src\GLSL\OgreGLSLProgramManagerCommon.cpp" />
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\src\GLSL\OgreGLSLShaderCommon.cpp" />
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\src\OgreGLRenderSystemCommon.cpp" />
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\src\OgreGLTextureCommon.cpp" />
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\src\OgreGLDepthBufferCommon.cpp" />
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\src\OgreGLRenderTexture.cpp" />
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\src\OgreGLHardwarePixelBufferCommon.cpp" />
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\src\OgreGLUniformCache.cpp" />
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\src\OgreGLVertexArrayObject.cpp" />
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\RenderSystems\GLSupport\src\OgreGLWindow.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="F:\CPlusPlus\OGRE\OgreSDK\ogredeps\OgreMain\OgreMain.vcxproj">
+      <Project>{90DC8C2B-05F8-3922-B4BF-2FACD5068CBE}</Project>
+      <Name>OgreMain</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\src\OgreTerrain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\src\OgreTerrainAutoUpdateLod.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\src\OgreTerrainGroup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\src\OgreTerrainLayerBlendMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\src\OgreTerrainLodManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\src\OgreTerrainMaterialGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\src\OgreTerrainMaterialGeneratorA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\src\OgreTerrainMaterialShaderHelperCg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\src\OgreTerrainMaterialShaderHelperGLSL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\src\OgreTerrainQuadTreeNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\src\OgreTerrainPaging.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\src\OgreTerrainPagedWorldSection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\include\OgreTerrain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\include\OgreTerrainAutoUpdateLod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\include\OgreTerrainGroup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\include\OgreTerrainLayerBlendMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\include\OgreTerrainLodManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\include\OgreTerrainMaterialGenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\include\OgreTerrainMaterialGeneratorA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\include\OgreTerrainPrerequisites.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\include\OgreTerrainQuadTreeNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\include\OgreTerrainPaging.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Components\Terrain\include\OgreTerrainPagedWorldSection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C15E7858-0106-32A1-92C3-CE650CE21D2D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CFE59392-1441-37A6-826C-1CBE098A0361}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

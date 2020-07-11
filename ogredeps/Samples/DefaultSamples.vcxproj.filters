@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\Common\src\DefaultSamplesPlugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\Compositor\src\HelperLogics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\DeferredShading\src\AmbientLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\DeferredShading\src\DLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\DeferredShading\src\DeferredLightCP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\DeferredShading\src\DeferredShading.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\DeferredShading\src\GBufferMaterialGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\DeferredShading\src\GBufferSchemeHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\DeferredShading\src\GeomUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\DeferredShading\src\LightMaterialGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\DeferredShading\src\MaterialGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\DeferredShading\src\SSAOLogic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\EndlessWorld\src\PerlinNoiseTerrainGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\Isosurf\src\Isosurf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\Isosurf\src\ProceduralTools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\OceanDemo\src\MaterialControls.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\ParticleGS\src\ParticleGS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\ParticleGS\src\ProceduralManualObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\ParticleGS\src\RandomTools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\ShaderSystem\src\OgreShaderExInstancedViewports.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\ShaderSystem\src\ShaderExReflectionMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\ShaderSystem\src\ShaderSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\ShaderSystemMultiLight\src\RTShaderSRSSegmentedLights.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\ShaderSystemMultiLight\src\SegmentedDynamicLightManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\ShaderSystemMultiLight\src\ShaderSystemMultiLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\ShaderSystemTexturedFog\src\RTShaderSRSTexturedFog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\ShaderSystemTexturedFog\src\ShaderSystemTexturedFog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\Simple\src\Compute.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\Simple\src\MeshLod.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\Simple\src\NewInstancing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\Simple\src\VolumeCSG.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\Simple\src\VolumeTerrain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\VolumeTex\src\ThingRenderable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\VolumeTex\src\VolumeRenderable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\VolumeTex\src\VolumeTex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\Water\src\WaterMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\Browser\include" />
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\Character\include" />
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\Common\include" />
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\Compositor\include" />
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\DeferredShading\include" />
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\EndlessWorld\include" />
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\Isosurf\include" />
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\OceanDemo\include" />
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\PCZTestApp\include" />
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\ParticleGS\include" />
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\ShaderSystem\include" />
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\ShaderSystemMultiLight\include" />
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\ShaderSystemTexturedFog\include" />
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\Simple\include" />
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\TerrainTessellation\include" />
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\VolumeTex\include" />
+    <None Include="F:\CPlusPlus\OGRE\OgreSDK\ogre-1.12.6\Samples\Water\include" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CFE59392-1441-37A6-826C-1CBE098A0361}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
